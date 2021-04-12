@@ -1,0 +1,50 @@
+body
+{
+    background-image: url("background.jpg"); 
+}
+
+.login_div1
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 100px;
+        margin-left: 500px;
+        margin-right: 500px;
+        background-color: lightskyblue;
+	}
+
+  #login
+  {
+      padding: 10px;
+      border-radius: 200px;
+      border-style: ridge;
+      border-bottom: black;
+      border-right: black;
+      background-color: red;
+      padding-right: 80px;
+      margin-top: 50px;
+      font-weight: bolder;
+
+      
+  }  
+
+ #Player_1_name_input
+ {
+     border-style: double;
+     border-radius: 100px;
+     border-color: black;
+     border-width: 10px;
+     padding: 5px;
+ } 
+
+ #head_title
+ {
+     font-style: italic;
+     background-color: white;
+     margin-left: 500px;
+     margin-right: 500px;
+     border-radius: 200px;
+     border-top-left-radius: 0px;
+     border-bottom-right-radius: 0px;
+ }
